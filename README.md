@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://wallpapercave.com/wp/wp8725111.jpg" alt="Main Header">
+</div>
 <h1 align="center">Hi 👋, I'm Dipak Nikalje</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
