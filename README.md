@@ -4,6 +4,10 @@
 <h1 align="center">Hi 👋, I'm Dipak Nikalje</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipaknikalje&label=Profile%20views&color=0e75b6&style=flat" alt="dipaknikalje" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipaknikalje" alt="dipaknikalje" /></a> </p>
+
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/dipaknikalje/overview](https://app.netlify.com/teams/dipaknikalje/overview)
